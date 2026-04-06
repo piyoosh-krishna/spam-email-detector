@@ -65,5 +65,5 @@ Used in:
 ---
 
 ## 👤 Author
-**Piyoosh Krishna**  
+**Piyoosh Krishna M**  
 Aspiring Artificial Intelligence Enthusiast
